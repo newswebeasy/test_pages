@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=0" />
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="format-detection" content="telephone=no">
+  
+  <title>NEWS WEB</title>
+  <meta name="description" content="普通のニュースを連続再生します">
+
+  <link rel="stylesheet" href="/assets/style.css">
+  <link rel="canonical" href="http://localhost:4000/news/web/playlist">
+
+  <script src="/assets/download.js"></script>
+</head>
+
+
+<body class="zh_CN mm_appmsg">
+  <div class="rich_media">
+    <div class="rich_media_inner">
+      <div>
+        <div class="rich_media_area_primary">
+          <h2 class="rich_media_title">NEWS WEB</h2>
+          <div class="rich_media_meta_list">
+            <em class="rich_media_meta rich_media_meta_text">音声再生</em>
+            <span class="rich_media_meta rich_media_meta_text rich_media_meta_nickname"><a href="/">NewsWebEasy</a></span>
+          </div>
+          <div class="rich_media_content">
+            <audio id="player" src="" controls autoplay style="width:100%; margin: 15px 0;"></audio>
+            
+            <script type="text/javascript">
+              var cur = -1;
+              var urls = [
+              
+              
+              
+              'https://newswebeasy.github.io/test_ja201710/news/web/voice/2017/10/15/k10011178571_201710151931_201710151931.mp3',
+              
+              
+              
+               false
+              ];
+
+              urls.pop();
+              var player = document.getElementById('player');
+
+              player.onended = function() {
+                var i = (cur + 1) % urls.length;
+                play(i);
+              }
+
+              function play(i) {
+                if (i != cur) {
+                  var last = cur;
+                  cur = i;
+                  player.src = urls[cur];
+                  player.load();
+                  player.play();
+
+                  var l = document.getElementsByClassName('playing-icon');
+                  if (last >= 0) {
+                    l[last].classList.remove("playing");
+                  }
+                  l[cur].classList.add("playing");
+                }
+              }
+            </script>
+            <ul>
+              
+              
+              
+              <li style="margin-top: 10px; border-bottom: 1px solid lightgray;">
+                <p><span class="playing-icon"></span><a href="#" onclick="play(1 - 1);return false;">豪の自動車メーカー 生産終了前に歴代の車がパレード</a>　[<a style="font-size: 0.8em" href="/news/web/2017/10/15/%E8%B1%AA%E3%81%AE%E8%87%AA%E5%8B%95%E8%BB%8A%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC-%E7%94%9F%E7%94%A3%E7%B5%82%E4%BA%86%E5%89%8D%E3%81%AB%E6%AD%B4%E4%BB%A3%E3%81%AE%E8%BB%8A%E3%81%8C%E3%83%91%E3%83%AC%E3%83%BC%E3%83%89/">テキスト</a>]</p>
+              </li>
+              
+              
+              
+              
+            </ul>
+            <script type="text/javascript">
+              play(0);
+            </script>
+
+            <p><img data-type="gif" src="/assets/qrcode.gif" data-ratio="0.5064308681672026" data-w="622" /></p>
+          </div>
+
+          <div class="ct_mpda_wrp">
+            <!-- js_sponsor_ad_area -->
+          </div>
+
+          <div class="rich_media_tool">
+            <a class="media_tool_meta meta_primary" href="/news/easy/playlist">イージーニュース</a>
+          </div>
+        </div>
+
+        <footer>
+  <div class="rich_media_area_extra">
+    <div class="mpda_bottom_container">
+      <!-- js_bottom_ad_area -->
+    </div>
+
+    <div class="rich_media_extra" id="js_preview_cmt" style="display:none">
+      <p class="discuss_icon_tips rich_split_tips tr">
+        <a href="##" id="js_preview_cmt_write">写留言<img class="icon_edit" src="//res.wx.qq.com/mmbizwap/zh_CN/htmledition/images/icon/appmsg/icon_edit25ded2.png"></a>
+      </p>
+    </div>
+  </div>
+</footer>
+
+
+      </div>
+    </div>
+  </div>
+</body>
+
+</html>

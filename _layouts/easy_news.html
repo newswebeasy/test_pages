@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+{% include head.html %}
+
+<body onload="onload()" class="zh_CN mm_appmsg">
+  <div class="rich_media">
+    <div class="rich_media_inner">
+      <div>
+        <div class="rich_media_area_primary">
+          <h2 class="rich_media_title">{{ page.title_with_ruby }}</h2>
+          <div class="rich_media_meta_list">
+            <em class="rich_media_meta rich_media_meta_text">{{ page.datetime }}</em>
+            <span class="rich_media_meta rich_media_meta_text rich_media_meta_nickname"><a href="/">{{ site.author }}</a></span>
+          </div>
+          <div class="rich_media_content">
+            {% if page.image_url %}
+            <p><img data-s="300,640" src="{{ page.image_url }}" data-ratio="0" data-w="640" /></p>
+            <p></p>
+            {% endif %}
+
+            {% if page.voice_url %}
+            <p></p>
+            <p>
+              <audio id="player" src="{{ page.voice_url }}" controls loop autoplay style="width:100%"></audio>
+              <a id="downloadLink" href="{{ page.voice_url }}" target="_blank" download onclick="onDownloadClick()"><img style="height:24px;width:24px;vertical-align:middle" src="{{ "/assets/download.png" | relative_url }}"/> ダウンロード</a>
+            </p>
+            {% endif %}
+            <p></p>
+
+            {{ page.contents }}
+
+            {% for w in page.words %}
+            <p><strong>{{ w.word }}</strong></p>
+            <ul class="list-paddingleft-2" style="list-style-type: decimal;">
+              {% for d in w.descriptions %}
+              <li>
+                <p>{{ d }}</p>
+              </li>
+              {% endfor %}
+            </ul>
+            {% endfor %}
+
+            <p><img data-type="gif" src="/assets/qrcode.gif" data-ratio="0.5064308681672026" data-w="622" /></p>
+          </div>
+
+          <div class="ct_mpda_wrp">
+            <!-- js_sponsor_ad_area -->
+          </div>
+
+          <div class="rich_media_tool">
+            {% if page.web_news_url %}
+            <a class="media_tool_meta meta_primary" href="{{ page.web_news_url }}">普通のニュース</a> |
+            {% endif %}
+            <a class="media_tool_meta meta_primary" href="{{ page.source_url }}">原文</a>
+          </div>
+        </div>
+
+        <footer>
+          <div class="rich_media_area_extra">
+            {% include comments.html %}
+            <div class="mpda_bottom_container">
+            {% include adsense_easy.html %}
+            </div>
+          </div>
+        </footer>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
