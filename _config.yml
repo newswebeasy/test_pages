@@ -1,6 +1,6 @@
 title: NEWS WEB EASY
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://newswebeasy.github.io"
+url: "https://newswebeasy.github.io/test_pages"
 author: NewsWebEasy
 
 collections:
