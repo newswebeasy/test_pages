@@ -23,24 +23,29 @@
             {% elsif page.img %}
             <p><img data-s="300,640" src="{{ page.img }}" data-ratio="0" data-w="640" /></p>
             {% endif %}
+            {% unless page.summary == blank %}
+            <p></p>
             <p>{{ page.summary }}</p>
+            {% endunless %}
+            {% unless page.more == blank %}
             <p></p>
             <p>{{ page.more }}</p>
+            {% endunless %}
             {% for s in page.body %}
             <p></p>
-            {% if s.title %}
+            {% unless s.title == blank %}
             <h2>{{ s.title }}</h2>
-            {% endif %}
-            {% if s.text %}
+            {% endunless %}
+            {% unless s.text == blank %}
             <p>{{ s.text }}</p>
-            {% endif %}
-            {% if s.image_url %}
+            {% endunless %}
+            {% unless s.image_url == blank %}
             <p></p>
             <p><img data-s="300,640" src="{{ s.image_url }}" data-ratio="0" data-w="640" /></p>
-            {% if s.caption %}
+            {% unless s.caption == blank %}
             <p class="caption">{{ s.caption }}</p>
-            {% endif %}
-            {% endif %}
+            {% endunless %}
+            {% endunless %}
             {% endfor %}
 
             <p><img data-type="gif" src="/assets/qrcode.gif" data-ratio="0.5064308681672026" data-w="622" /></p>
