@@ -31,14 +31,16 @@
             {% if s.title %}
             <h2>{{ s.title }}</h2>
             {% endif %}
+            {% if s.text %}
+            <p>{{ s.text }}</p>
+            {% endif %}
             {% if s.image_url %}
+            <p></p>
             <p><img data-s="300,640" src="{{ s.image_url }}" data-ratio="0" data-w="640" /></p>
             {% if s.caption %}
             <p class="caption">{{ s.caption }}</p><p></p>
             {% endif %}
-            <p></p>
             {% endif %}
-            <p>{{ s.text }}</p>
             {% endfor %}
 
             <p><img data-type="gif" src="/assets/qrcode.gif" data-ratio="0.5064308681672026" data-w="622" /></p>
