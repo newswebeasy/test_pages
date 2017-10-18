@@ -29,8 +29,8 @@
             {% if s.title %}
             <br /><h2>{{ s.title }}</h2>
             {% endif %}
-            {% if s.img %}
-            <p><img data-s="300,640" src="{{ s.img }}" data-ratio="0" data-w="640" /></p>
+            {% if s.image_url %}
+            <p><img data-s="300,640" src="{{ s.image_url }}" data-ratio="0" data-w="640" /></p>
             {% if s.caption %}
             <p style="text-align: center;font-size: 0.8em;font-weight: bold">{{ s.caption }}</p>
             {% endif %}
