@@ -18,9 +18,10 @@
               <video id="player" src="{{ page.movie_url }}" controls loop autoplay></video>
             </p>
             <p></p>
-            {% endif %}
-            {% if page.image_url %}
+            {% elsif page.image_url %}
             <p><img data-s="300,640" src="{{ page.image_url }}" data-ratio="0" data-w="640" /></p>
+            {% elsif page.img %}
+            <p><img data-s="300,640" src="{{ page.img }}" data-ratio="0" data-w="640" /></p>
             {% endif %}
             <p>{{ page.summary }}</p>
             <p></p>
