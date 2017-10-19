@@ -27,7 +27,12 @@
             {% endif %}
             <p></p>
 
+            {% if page.content_with_ruby %}
+            {{ page.content_with_ruby }}
+            {% endif %}
+            {% if page.contents %}
             {{ page.contents }}
+            {% endif %}
 
             {% for w in page.words %}
             <p><strong>{{ w.word }}</strong></p>
