@@ -15,4 +15,5 @@ more: 気象予報士試験に合格したのは、北見市の小学６年生�
 body:
 - {}
 source_url: http://www3.nhk.or.jp/news/html/20171016/k10011179451000.html
+easy_news_url: https://newswebeasy.github.io/test_pages/news/easy/2017/10/18/11歳の女の子が気象予報士の試験に合格
 ...

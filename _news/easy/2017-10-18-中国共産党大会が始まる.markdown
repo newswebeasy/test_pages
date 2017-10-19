@@ -6,16 +6,20 @@ title: 中国共産党大会が始まる
 title_with_ruby: <ruby>中国共産党大会<rt>ちゅうごくきょうさんとうたいかい</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まる
 outline: <ruby>中国<rt>ちゅうごく</rt></ruby>では５<ruby>年<rt>ねん</rt></ruby>に１<ruby>度<rt>ど</rt></ruby>、<ruby>政治<rt>せいじ</rt></ruby>のしかたなどを<ruby>話<rt>はな</rt></ruby>し<ruby>合<rt>あ</rt></ruby>う<ruby>中国共産党大会<rt>ちゅうごくきょうさんとうたいかい</rt></ruby>を<ruby>開<rt>ひら</rt></ruby>いています。
 outline_with_ruby: <ruby>中国<rt>ちゅうごく</rt></ruby>では５<ruby>年<rt>ねん</rt></ruby>に１<ruby>度<rt>ど</rt></ruby>、<ruby>政治<rt>せいじ</rt></ruby>のしかたなどを<ruby>話<rt>はな</rt></ruby>し<ruby>合<rt>あ</rt></ruby>う<ruby>中国共産党大会<rt>ちゅうごくきょうさんとうたいかい</rt></ruby>を<ruby>開<rt>ひら</rt></ruby>いています。
+image_url: https://newswebeasy.github.io/test_ja201710/news/easy/image/2017/10/18/k10011181401000.jpg
 voice_path: https://newswebeasy.github.io/test_ja201710/news/easy/voice/2017/10/18/k10011181401000.mp3
-content_with_ruby: "<p><ruby>中国<rt>ちゅうごく</rt></ruby>では５<ruby>年<rt>ねん</rt></ruby>に１<ruby>度<rt>ど</rt></ruby>、<ruby>政治<rt>せいじ</rt></ruby>のしかたなどを<dict\
-  \ id=\"id-0000\"><ruby>話<rt>はな</rt></ruby>し<ruby>合<rt>あ</rt></ruby>う</dict><ruby>中国共産党大会<rt>ちゅうごくきょうさんとうたいかい</rt></ruby>を<ruby>開<rt>ひら</rt></ruby>いています。<ruby>北京<rt>ぺきん</rt></ruby>で１８<ruby>日<rt>にち</rt></ruby>、<dict\
-  \ id=\"id-0001\"><ruby>約<rt>やく</rt></ruby></dict>２３００<ruby>人<rt>にん</rt></ruby>が<ruby>出席<rt>しゅっせき</rt></ruby>して、この<ruby>党大会<rt>とうたいかい</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まりました。</p>\n\
-  <p><ruby>中国共産党<rt>ちゅうごくきょうさんとう</rt></ruby>の<dict id=\"id-0002\">トップ</dict>の<ruby>習<rt>しゅう</rt></ruby><ruby>近平<rt>きんぺい</rt></ruby><ruby>総書記<rt>そうしょき</rt></ruby>は、<ruby>今<rt>いま</rt></ruby>までの５<ruby>年<rt>ねん</rt></ruby>について、「<dict\
-  \ id=\"id-0003\"><ruby>汚職<rt>おしょく</rt></ruby></dict>や<dict id=\"id-0004\"><ruby>貧<rt>まず</rt></ruby>しい</dict><ruby>人<rt>ひと</rt></ruby>たちの<ruby>問題<rt>もんだい</rt></ruby>など、たくさんの<ruby>難<rt>むずか</rt></ruby>しい<ruby>問題<rt>もんだい</rt></ruby>を<dict\
-  \ id=\"id-0005\"><ruby>解決<rt>かいけつ</rt></ruby></dict>して、<ruby>政治<rt>せいじ</rt></ruby>や<ruby>社会<rt>しゃかい</rt></ruby>を<ruby>変<rt>か</rt></ruby>えてきました」と<ruby>話<rt>はな</rt></ruby>しました。そして、これから３０<ruby>年<rt>ねん</rt></ruby><ruby>頑張<rt>がんば</rt></ruby>って、<ruby>国<rt>くに</rt></ruby>ができてから１００<ruby>年<rt>ねん</rt></ruby>になるまでにもっと<dict\
-  \ id=\"id-0006\"><ruby>発展<rt>はってん</rt></ruby></dict>した<dict id=\"id-0007\"><ruby>社会主義<rt>しゃかいしゅぎ</rt></ruby></dict>の<ruby>国<rt>くに</rt></ruby>にすると<ruby>強<rt>つよ</rt></ruby>く<ruby>言<rt>い</rt></ruby>いました。</p>\n\
-  <p><ruby>党大会<rt>とうたいかい</rt></ruby>は<ruby>２４日<rt>にじゅうよっか</rt></ruby>までで、２５<ruby>日<rt>にち</rt></ruby>に<ruby>中国共産党<rt>ちゅうごくきょうさんとう</rt></ruby>の<dict\
-  \ id=\"id-0008\"><ruby>最高<rt>さいこう</rt></ruby></dict><dict id=\"id-0009\"><ruby>幹部<rt>かんぶ</rt></ruby></dict>の<ruby>人<rt>ひと</rt></ruby>たちを<ruby>新<rt>あたら</rt></ruby>しく<ruby>選<rt>えら</rt></ruby>ぶ<ruby>予定<rt>よてい</rt></ruby>です。</p>\n\
+content_with_ruby: "<p><ruby>中国<rt>ちゅうごく</rt></ruby>では５<ruby>年<rt>ねん</rt></ruby>に１<ruby>度<rt>ど</rt></ruby>、<ruby>政治<rt>せいじ</rt></ruby>のしかたなどを<span\
+  \ style=\"color: blue;\"><ruby>話<rt>はな</rt></ruby>し<ruby>合<rt>あ</rt></ruby>う</span><ruby>中国共産党大会<rt>ちゅうごくきょうさんとうたいかい</rt></ruby>を<ruby>開<rt>ひら</rt></ruby>いています。<ruby>北京<rt>ぺきん</rt></ruby>で１８<ruby>日<rt>にち</rt></ruby>、<span\
+  \ style=\"color: blue;\"><ruby>約<rt>やく</rt></ruby></span>２３００<ruby>人<rt>にん</rt></ruby>が<ruby>出席<rt>しゅっせき</rt></ruby>して、この<ruby>党大会<rt>とうたいかい</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まりました。</p>\n\
+  <p><ruby>中国共産党<rt>ちゅうごくきょうさんとう</rt></ruby>の<span style=\"color: blue;\">トップ</span>の<ruby>習<rt>しゅう</rt></ruby><ruby>近平<rt>きんぺい</rt></ruby><ruby>総書記<rt>そうしょき</rt></ruby>は、<ruby>今<rt>いま</rt></ruby>までの５<ruby>年<rt>ねん</rt></ruby>について、「<span\
+  \ style=\"color: blue;\"><ruby>汚職<rt>おしょく</rt></ruby></span>や<span style=\"color:\
+  \ blue;\"><ruby>貧<rt>まず</rt></ruby>しい</span><ruby>人<rt>ひと</rt></ruby>たちの<ruby>問題<rt>もんだい</rt></ruby>など、たくさんの<ruby>難<rt>むずか</rt></ruby>しい<ruby>問題<rt>もんだい</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>解決<rt>かいけつ</rt></ruby></span>して、<ruby>政治<rt>せいじ</rt></ruby>や<ruby>社会<rt>しゃかい</rt></ruby>を<ruby>変<rt>か</rt></ruby>えてきました」と<ruby>話<rt>はな</rt></ruby>しました。そして、これから３０<ruby>年<rt>ねん</rt></ruby><ruby>頑張<rt>がんば</rt></ruby>って、<ruby>国<rt>くに</rt></ruby>ができてから１００<ruby>年<rt>ねん</rt></ruby>になるまでにもっと<span\
+  \ style=\"color: blue;\"><ruby>発展<rt>はってん</rt></ruby></span>した<span style=\"color:\
+  \ blue;\"><ruby>社会主義<rt>しゃかいしゅぎ</rt></ruby></span>の<ruby>国<rt>くに</rt></ruby>にすると<ruby>強<rt>つよ</rt></ruby>く<ruby>言<rt>い</rt></ruby>いました。</p>\n\
+  <p><ruby>党大会<rt>とうたいかい</rt></ruby>は<ruby>２４日<rt>にじゅうよっか</rt></ruby>までで、２５<ruby>日<rt>にち</rt></ruby>に<ruby>中国共産党<rt>ちゅうごくきょうさんとう</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>最高<rt>さいこう</rt></ruby></span><span style=\"color:\
+  \ blue;\"><ruby>幹部<rt>かんぶ</rt></ruby></span>の<ruby>人<rt>ひと</rt></ruby>たちを<ruby>新<rt>あたら</rt></ruby>しく<ruby>選<rt>えら</rt></ruby>ぶ<ruby>予定<rt>よてい</rt></ruby>です。</p>\n\
   <p></p>\n<p></p>\n<p></p>\n<p></p>"
 words:
 - word: 話し合う

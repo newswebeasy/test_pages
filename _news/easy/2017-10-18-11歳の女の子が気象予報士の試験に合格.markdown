@@ -6,17 +6,18 @@ title: １１歳の女の子が気象予報士の試験に合格
 title_with_ruby: １１<ruby>歳<rt>さい</rt></ruby>の<ruby>女<rt>おんな</rt></ruby>の<ruby>子<rt>こ</rt></ruby>が<ruby>気象予報士<rt>きしょうよほうし</rt></ruby>の<ruby>試験<rt>しけん</rt></ruby>に<ruby>合格<rt>ごうかく</rt></ruby>
 outline: <ruby>北海道<rt>ほっかいどう</rt></ruby><ruby>北見市<rt>きたみし</rt></ruby>に<ruby>住<rt>す</rt></ruby>んでいる<ruby>小学校<rt>しょうがっこう</rt></ruby>６<ruby>年生<rt>ねんせい</rt></ruby>の<ruby>本田<rt>ほんだ</rt></ruby>まりあさんが、<ruby>気象予報士<rt>きしょうよほうし</rt></ruby>の<ruby>試験<rt>しけん</rt></ruby>に<ruby>合格<rt>ごうかく</rt></ruby>しました。
 outline_with_ruby: <ruby>北海道<rt>ほっかいどう</rt></ruby><ruby>北見市<rt>きたみし</rt></ruby>に<ruby>住<rt>す</rt></ruby>んでいる<ruby>小学校<rt>しょうがっこう</rt></ruby>６<ruby>年生<rt>ねんせい</rt></ruby>の<ruby>本田<rt>ほんだ</rt></ruby>まりあさんが、<ruby>気象予報士<rt>きしょうよほうし</rt></ruby>の<ruby>試験<rt>しけん</rt></ruby>に<ruby>合格<rt>ごうかく</rt></ruby>しました。
+image_url: https://newswebeasy.github.io/test_ja201710/news/web/image/2017/10/18/K10011179451_1710161749_1710161750_01_02.jpg
 voice_path: https://newswebeasy.github.io/test_ja201710/news/easy/voice/2017/10/18/k10011179451000.mp3
-content_with_ruby: "<p><ruby>北海道<rt>ほっかいどう</rt></ruby><ruby>北見市<rt>きたみし</rt></ruby>に<ruby>住<rt>す</rt></ruby>んでいる<ruby>小学校<rt>しょうがっこう</rt></ruby>６<ruby>年生<rt>ねんせい</rt></ruby>の<ruby>本田<rt>ほんだ</rt></ruby>まりあさんが、<dict\
-  \ id=\"id-0000\"><ruby>気象予報士<rt>きしょうよほうし</rt></ruby></dict>の<ruby>試験<rt>しけん</rt></ruby>に<dict\
-  \ id=\"id-0001\"><ruby>合格<rt>ごうかく</rt></ruby></dict>しました。</p>\n<p>この<ruby>試験<rt>しけん</rt></ruby>に<dict\
-  \ id=\"id-0001\"><ruby>合格<rt>ごうかく</rt></ruby></dict>した<ruby>人<rt>ひと</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で<ruby>今<rt>いま</rt></ruby>まで<ruby>最<rt>もっと</rt></ruby>も<ruby>若<rt>わか</rt></ruby>かった<ruby>人<rt>ひと</rt></ruby>は、１２<ruby>歳<rt>さい</rt></ruby>１１か<ruby>月<rt>げつ</rt></ruby>でした。<ruby>本田<rt>ほんだ</rt></ruby>さんは１１<ruby>歳<rt>さい</rt></ruby>１１か<ruby>月<rt>げつ</rt></ruby>で<dict\
-  \ id=\"id-0001\"><ruby>合格<rt>ごうかく</rt></ruby></dict>したので、<ruby>最<rt>もっと</rt></ruby>も<ruby>若<rt>わか</rt></ruby>い<dict\
-  \ id=\"id-0002\"><ruby>記録<rt>きろく</rt></ruby></dict>です。<ruby>本田<rt>ほんだ</rt></ruby>さんがこの<ruby>試験<rt>しけん</rt></ruby>を<ruby>受<rt>う</rt></ruby>けたのは４<ruby>回<rt>かい</rt></ruby><ruby>目<rt>め</rt></ruby>で、<dict\
-  \ id=\"id-0001\"><ruby>合格<rt>ごうかく</rt></ruby></dict>した<ruby>人<rt>ひと</rt></ruby>は４．９％だけでした。</p>\n\
-  <p><ruby>本田<rt>ほんだ</rt></ruby>さんは<ruby>小学校<rt>しょうがっこう</rt></ruby>４<ruby>年生<rt>ねんせい</rt></ruby>のとき、「なぜ<ruby>雲<rt>くも</rt></ruby>は<ruby>落<rt>お</rt></ruby>ちないのか」と<dict\
-  \ id=\"id-0003\"><ruby>疑問<rt>ぎもん</rt></ruby></dict>に<ruby>思<rt>おも</rt></ruby>って、<dict\
-  \ id=\"id-0000\"><ruby>気象予報士<rt>きしょうよほうし</rt></ruby></dict>の<ruby>勉強<rt>べんきょう</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>めました。<ruby>試験<rt>しけん</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>は、<ruby>毎日<rt>まいにち</rt></ruby>１<ruby>時間<rt>じかん</rt></ruby><ruby>半<rt>はん</rt></ruby>ぐらい<ruby>勉強<rt>べんきょう</rt></ruby>していました。</p>\n\
+content_with_ruby: "<p><ruby>北海道<rt>ほっかいどう</rt></ruby><ruby>北見市<rt>きたみし</rt></ruby>に<ruby>住<rt>す</rt></ruby>んでいる<ruby>小学校<rt>しょうがっこう</rt></ruby>６<ruby>年生<rt>ねんせい</rt></ruby>の<ruby>本田<rt>ほんだ</rt></ruby>まりあさんが、<span\
+  \ style=\"color: blue;\"><ruby>気象予報士<rt>きしょうよほうし</rt></ruby></span>の<ruby>試験<rt>しけん</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>合格<rt>ごうかく</rt></ruby></span>しました。</p>\n<p>この<ruby>試験<rt>しけん</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>合格<rt>ごうかく</rt></ruby></span>した<ruby>人<rt>ひと</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で<ruby>今<rt>いま</rt></ruby>まで<ruby>最<rt>もっと</rt></ruby>も<ruby>若<rt>わか</rt></ruby>かった<ruby>人<rt>ひと</rt></ruby>は、１２<ruby>歳<rt>さい</rt></ruby>１１か<ruby>月<rt>げつ</rt></ruby>でした。<ruby>本田<rt>ほんだ</rt></ruby>さんは１１<ruby>歳<rt>さい</rt></ruby>１１か<ruby>月<rt>げつ</rt></ruby>で<span\
+  \ style=\"color: blue;\"><ruby>合格<rt>ごうかく</rt></ruby></span>したので、<ruby>最<rt>もっと</rt></ruby>も<ruby>若<rt>わか</rt></ruby>い<span\
+  \ style=\"color: blue;\"><ruby>記録<rt>きろく</rt></ruby></span>です。<ruby>本田<rt>ほんだ</rt></ruby>さんがこの<ruby>試験<rt>しけん</rt></ruby>を<ruby>受<rt>う</rt></ruby>けたのは４<ruby>回<rt>かい</rt></ruby><ruby>目<rt>め</rt></ruby>で、<span\
+  \ style=\"color: blue;\"><ruby>合格<rt>ごうかく</rt></ruby></span>した<ruby>人<rt>ひと</rt></ruby>は４．９％だけでした。</p>\n\
+  <p><ruby>本田<rt>ほんだ</rt></ruby>さんは<ruby>小学校<rt>しょうがっこう</rt></ruby>４<ruby>年生<rt>ねんせい</rt></ruby>のとき、「なぜ<ruby>雲<rt>くも</rt></ruby>は<ruby>落<rt>お</rt></ruby>ちないのか」と<span\
+  \ style=\"color: blue;\"><ruby>疑問<rt>ぎもん</rt></ruby></span>に<ruby>思<rt>おも</rt></ruby>って、<span\
+  \ style=\"color: blue;\"><ruby>気象予報士<rt>きしょうよほうし</rt></ruby></span>の<ruby>勉強<rt>べんきょう</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>めました。<ruby>試験<rt>しけん</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>は、<ruby>毎日<rt>まいにち</rt></ruby>１<ruby>時間<rt>じかん</rt></ruby><ruby>半<rt>はん</rt></ruby>ぐらい<ruby>勉強<rt>べんきょう</rt></ruby>していました。</p>\n\
   <p><ruby>本田<rt>ほんだ</rt></ruby>さんは、「<ruby>勉強<rt>べんきょう</rt></ruby>したらいろいろなことがわかるようになるので、<ruby>楽<rt>たの</rt></ruby>しいです」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
   <p></p>\n<p></p>"
 words:
