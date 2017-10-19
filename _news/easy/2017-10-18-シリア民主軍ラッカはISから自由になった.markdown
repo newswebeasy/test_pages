@@ -49,4 +49,5 @@ words:
   - <ruby><rb>兵隊</rb><rt>へいたい</rt></ruby>。<ruby><rb>兵隊</rb><rt>へいたい</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。
   - <ruby><rb>戦</rb><rt>たたか</rt></ruby>い。<ruby><rb>戦争</rb><rt>せんそう</rt></ruby>。
 source_url: http://www3.nhk.or.jp/news/easy/k10011181151000/k10011181151000.html
+web_news_url: https://newswebeasy.github.io/test_pages/news/web/2017/10/18/IS標ぼうの国家事実上崩壊も長期の過激派対策必要
 ...

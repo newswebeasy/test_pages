@@ -52,4 +52,5 @@ words:
   descriptions:
   - <ruby><rb>人</rb><rt>ひと</rt></ruby>などが、<ruby><rb>順序</rb><rt>じゅんじょ</rt></ruby>よく<ruby><rb>並</rb><rt>なら</rt></ruby>ぶこと。<ruby><rb>順</rb><rt>じゅん</rt></ruby>に<ruby><rb>並</rb><rt>なら</rt></ruby>んだ<ruby><rb>列</rb><rt>れつ</rt></ruby>。
 source_url: http://www3.nhk.or.jp/news/easy/k10011180401000/k10011180401000.html
+web_news_url: https://newswebeasy.github.io/test_pages/news/web/2017/10/17/日光東照宮で武者行列-800人が参道練り歩き
 ...

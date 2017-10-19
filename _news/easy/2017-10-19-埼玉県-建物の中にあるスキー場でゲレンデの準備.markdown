@@ -43,4 +43,5 @@ words:
   - でこぼこしていないようす。
   - <ruby><rb>楽</rb><rt>らく</rt></ruby>な<ruby><rb>姿勢</rb><rt>しせい</rt></ruby>ですわるようす。
 source_url: http://www3.nhk.or.jp/news/easy/k10011180201000/k10011180201000.html
+web_news_url: https://newswebeasy.github.io/test_pages/news/web/2017/10/17/屋内スキー場でゲレンデづくり-埼玉-所沢
 ...

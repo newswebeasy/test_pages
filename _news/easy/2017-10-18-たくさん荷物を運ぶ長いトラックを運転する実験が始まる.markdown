@@ -50,4 +50,5 @@ words:
   descriptions:
   - <ruby><rb>自動車</rb><rt>じどうしゃ</rt></ruby>が<ruby><rb>速</rb><rt>はや</rt></ruby>く<ruby><rb>走</rb><rt>はし</rt></ruby>れるように、<ruby><rb>立体交差</rb><rt>りったいこうさ</rt></ruby>にしたり、<ruby><rb>上</rb><rt>のぼ</rt></ruby>り<ruby><rb>下</rb><rt>くだ</rt></ruby>りを<ruby><rb>分</rb><rt>わ</rt></ruby>けたりした<ruby><rb>道路</rb><rt>どうろ</rt></ruby>。ハイウエー。
 source_url: http://www3.nhk.or.jp/news/easy/k10011179621000/k10011179621000.html
+web_news_url: https://newswebeasy.github.io/test_pages/news/web/2017/10/16/運送業界-人手不足でダブル連結トラックの運用実験
 ...

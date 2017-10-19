@@ -37,4 +37,5 @@ words:
   descriptions:
   - <ruby><rb>碁</rb><rt>ご</rt></ruby>に<ruby><rb>使</rb><rt>つか</rt></ruby>う、<ruby><rb>円</rb><rt>まる</rt></ruby>くて<ruby><rb>平</rb><rt>ひら</rt></ruby>たい、<ruby><rb>黒</rb><rt>くろ</rt></ruby>と<ruby><rb>白</rb><rt>しろ</rt></ruby>の<ruby><rb>石</rb><rt>いし</rt></ruby>。
 source_url: http://www3.nhk.or.jp/news/easy/k10011180731000/k10011180731000.html
+web_news_url: https://newswebeasy.github.io/test_pages/news/web/2017/10/17/囲碁-井山裕太-2度目の七冠独占
 ...

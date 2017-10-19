@@ -61,4 +61,5 @@ words:
   descriptions:
   - <ruby><rb>会社</rb><rt>かいしゃ</rt></ruby>・<ruby><rb>団体</rb><rt>だんたい</rt></ruby>などの<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>になる<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>。
 source_url: http://www3.nhk.or.jp/news/easy/k10011181401000/k10011181401000.html
+web_news_url: https://newswebeasy.github.io/test_pages/news/web/2017/10/18/中国共産党大会始まる-習氏社会主義の現代化強国築く
 ...

@@ -39,4 +39,5 @@ words:
   - <ruby><rb>疑</rb><rt>うたが</rt></ruby>わしいこと。<ruby><rb>疑</rb><rt>うたが</rt></ruby>い。
   - わからないこと。
 source_url: http://www3.nhk.or.jp/news/easy/k10011179451000/k10011179451000.html
+web_news_url: https://newswebeasy.github.io/test_pages/news/web/2017/10/16/11歳の女の子が気象予報士に-最年少で合格
 ...
