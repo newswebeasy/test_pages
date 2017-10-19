@@ -1,5 +1,7 @@
 ---
-id: k10011180731000
+layout: easy_news
+categories: easy
+newsid: k10011180731000
 last_modified_at: '2017-10-18T19:10:00+09:00'
 datetime: 2017年10月18日 19時10分
 title: 囲碁の井山裕太さんが２度目の７つのタイトル

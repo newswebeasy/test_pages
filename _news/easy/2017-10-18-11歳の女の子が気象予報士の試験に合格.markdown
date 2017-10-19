@@ -1,5 +1,7 @@
 ---
-id: k10011179451000
+layout: easy_news
+categories: easy
+newsid: k10011179451000
 last_modified_at: '2017-10-18T12:30:00+09:00'
 datetime: 2017年10月18日 12時30分
 title: １１歳の女の子が気象予報士の試験に合格

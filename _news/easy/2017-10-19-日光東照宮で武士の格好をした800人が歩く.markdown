@@ -1,5 +1,7 @@
 ---
-id: k10011180401000
+layout: easy_news
+categories: easy
+newsid: k10011180401000
 last_modified_at: '2017-10-19T12:30:00+09:00'
 datetime: 2017年10月19日 12時30分
 title: 日光東照宮で武士の格好をした８００人が歩く
