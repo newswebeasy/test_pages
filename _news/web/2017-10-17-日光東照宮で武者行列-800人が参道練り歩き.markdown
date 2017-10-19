@@ -13,5 +13,5 @@ more: 「百物揃千人武者行列」は、江戸時代に徳川家康の遺�
 body:
 - {}
 source_url: http://www3.nhk.or.jp/news/html/20171017/k10011180401000.html
-web_news_url: https://newswebeasy.github.io/test_pages/news/easy/2017/10/19/日光東照宮で武士の格好をした800人が歩く
+easy_news_url: https://newswebeasy.github.io/test_pages/news/easy/2017/10/19/日光東照宮で武士の格好をした800人が歩く
 ...
