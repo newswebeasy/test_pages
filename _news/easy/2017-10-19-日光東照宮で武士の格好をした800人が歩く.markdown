@@ -9,7 +9,7 @@ title_with_ruby: <ruby>日光東照宮<rt>にっこうとうしょうぐう</rt>
 outline: <ruby>栃木県<rt>とちぎけん</rt></ruby><ruby>日光市<rt>にっこうし</rt></ruby>にある<ruby>日光東照宮<rt>にっこうとうしょうぐう</rt></ruby>で１７<ruby>日<rt>にち</rt></ruby>、「<ruby>百物揃<rt>ひゃくものぞろい</rt></ruby><ruby>千人武者行列<rt>せんにんむしゃぎょうれつ</rt></ruby>」という<ruby>行事<rt>ぎょうじ</rt></ruby>がありました。
 outline_with_ruby: <ruby>栃木県<rt>とちぎけん</rt></ruby><ruby>日光市<rt>にっこうし</rt></ruby>にある<ruby>日光東照宮<rt>にっこうとうしょうぐう</rt></ruby>で１７<ruby>日<rt>にち</rt></ruby>、「<ruby>百物揃<rt>ひゃくものぞろい</rt></ruby><ruby>千人武者行列<rt>せんにんむしゃぎょうれつ</rt></ruby>」という<ruby>行事<rt>ぎょうじ</rt></ruby>がありました。
 image_url: https://newswebeasy.github.io/test_ja201710/news/web/image/2017/10/19/K10011180401_1710171429_1710171441_01_02.jpg
-voice_path: https://newswebeasy.github.io/test_ja201710/news/easy/voice/2017/10/19/k10011180401000.mp3
+voice_url: https://newswebeasy.github.io/test_ja201710/news/easy/voice/2017/10/19/k10011180401000.mp3
 content_with_ruby: "<p><ruby>栃木県<rt>とちぎけん</rt></ruby><ruby>日光市<rt>にっこうし</rt></ruby>にある<ruby>日光東照宮<rt>にっこうとうしょうぐう</rt></ruby>で１７<ruby>日<rt>にち</rt></ruby>、「<ruby>百物揃<rt>ひゃくものぞろい</rt></ruby><ruby>千人武者行列<rt>せんにんむしゃぎょうれつ</rt></ruby>」という<span\
   \ style=\"color: blue;\"><ruby>行事<rt>ぎょうじ</rt></ruby></span>がありました。<ruby>毎年<rt>まいとし</rt></ruby><ruby>春<rt>はる</rt></ruby>と<ruby>秋<rt>あき</rt></ruby>にあって、<span\
   \ style=\"color: blue;\"><ruby>武士<rt>ぶし</rt></ruby></span>などの<span style=\"color:\

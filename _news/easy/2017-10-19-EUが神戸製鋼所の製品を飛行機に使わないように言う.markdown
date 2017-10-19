@@ -9,7 +9,7 @@ title_with_ruby: ＥＵが<ruby>神戸製鋼所<rt>こうべせいこうしょ</
 outline: <ruby>神戸製鋼所<rt>こうべせいこうしょ</rt></ruby>は<ruby>鉄<rt>てつ</rt></ruby>やアルミなどの<ruby>製品<rt>せいひん</rt></ruby>を<ruby>作<rt>つく</rt></ruby>っている<ruby>会社<rt>かいしゃ</rt></ruby>です。
 outline_with_ruby: <ruby>神戸製鋼所<rt>こうべせいこうしょ</rt></ruby>は<ruby>鉄<rt>てつ</rt></ruby>やアルミなどの<ruby>製品<rt>せいひん</rt></ruby>を<ruby>作<rt>つく</rt></ruby>っている<ruby>会社<rt>かいしゃ</rt></ruby>です。
 image_url: https://newswebeasy.github.io/test_ja201710/news/web/image/2017/10/19/K10011181951_1710181932_1710181933_01_02.jpg
-voice_path: https://newswebeasy.github.io/test_ja201710/news/easy/voice/2017/10/19/k10011181951000.mp3
+voice_url: https://newswebeasy.github.io/test_ja201710/news/easy/voice/2017/10/19/k10011181951000.mp3
 content_with_ruby: "<p><ruby>神戸製鋼所<rt>こうべせいこうしょ</rt></ruby>は<span style=\"color: blue;\"\
   ><ruby>鉄<rt>てつ</rt></ruby></span>や<span style=\"color: blue;\">アルミ</span>などの<span\
   \ style=\"color: blue;\"><ruby>製品<rt>せいひん</rt></ruby></span>を<ruby>作<rt>つく</rt></ruby>っている<ruby>会社<rt>かいしゃ</rt></ruby>です。<ruby>神戸製鋼所<rt>こうべせいこうしょ</rt></ruby>の<span\

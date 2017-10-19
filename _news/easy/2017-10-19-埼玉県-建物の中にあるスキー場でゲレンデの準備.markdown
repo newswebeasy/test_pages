@@ -9,7 +9,7 @@ title_with_ruby: <ruby>埼玉県<rt>さいたまけん</rt></ruby>　<ruby>建�
 outline: <ruby>埼玉県<rt>さいたまけん</rt></ruby><ruby>所沢市<rt>ところざわし</rt></ruby>にある<ruby>狭山<rt>さやま</rt></ruby>スキー<ruby>場<rt>じょう</rt></ruby>は、<ruby>建物<rt>たてもの</rt></ruby>の<ruby>中<rt>なか</rt></ruby>でスキーを<ruby>楽<rt>たの</rt></ruby>しむことができる<ruby>所<rt>ところ</rt></ruby>です。
 outline_with_ruby: <ruby>埼玉県<rt>さいたまけん</rt></ruby><ruby>所沢市<rt>ところざわし</rt></ruby>にある<ruby>狭山<rt>さやま</rt></ruby>スキー<ruby>場<rt>じょう</rt></ruby>は、<ruby>建物<rt>たてもの</rt></ruby>の<ruby>中<rt>なか</rt></ruby>でスキーを<ruby>楽<rt>たの</rt></ruby>しむことができる<ruby>所<rt>ところ</rt></ruby>です。
 image_url: https://newswebeasy.github.io/test_ja201710/news/web/image/2017/10/19/K10011180201_1710171149_1710171149_01_02.jpg
-voice_path: https://newswebeasy.github.io/test_ja201710/news/easy/voice/2017/10/19/k10011180201000.mp3
+voice_url: https://newswebeasy.github.io/test_ja201710/news/easy/voice/2017/10/19/k10011180201000.mp3
 content_with_ruby: "<p><ruby>埼玉県<rt>さいたまけん</rt></ruby><ruby>所沢市<rt>ところざわし</rt></ruby>にある<ruby>狭山<rt>さやま</rt></ruby>スキー<ruby>場<rt>じょう</rt></ruby>は、<ruby>建物<rt>たてもの</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で<span\
   \ style=\"color: blue;\">スキー</span>を<ruby>楽<rt>たの</rt></ruby>しむことができる<ruby>所<rt>ところ</rt></ruby>です。<ruby>雪<rt>ゆき</rt></ruby>は<ruby>機械<rt>きかい</rt></ruby>で<ruby>作<rt>つく</rt></ruby>ります。<ruby>今年<rt>ことし</rt></ruby>の<span\
   \ style=\"color: blue;\">オープン</span>は１０<ruby>月<rt>がつ</rt></ruby>２１<ruby>日<rt>にち</rt></ruby>です。</p>\n\

@@ -9,7 +9,7 @@ title_with_ruby: <ruby>月<rt>つき</rt></ruby>の<ruby>地下<rt>ちか</rt></
 outline: <ruby>宇宙<rt>うちゅう</rt></ruby>の<ruby>研究<rt>けんきゅう</rt></ruby>をしている<ruby>日本<rt>にっぽん</rt></ruby>のＪＡＸＡは２００７<ruby>年<rt>ねん</rt></ruby>に、<ruby>月<rt>つき</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べる<ruby>人工衛星<rt>じんこうえいせい</rt></ruby>の「かぐや」を<ruby>打<rt>う</rt></ruby>ち<ruby>上<rt>あ</rt></ruby>げました。
 outline_with_ruby: <ruby>宇宙<rt>うちゅう</rt></ruby>の<ruby>研究<rt>けんきゅう</rt></ruby>をしている<ruby>日本<rt>にっぽん</rt></ruby>のＪＡＸＡは２００７<ruby>年<rt>ねん</rt></ruby>に、<ruby>月<rt>つき</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べる<ruby>人工衛星<rt>じんこうえいせい</rt></ruby>の「かぐや」を<ruby>打<rt>う</rt></ruby>ち<ruby>上<rt>あ</rt></ruby>げました。
 image_url: https://newswebeasy.github.io/test_ja201710/news/web/image/2017/10/19/K10011181421_1710181221_1710181222_01_03.jpg
-voice_path: https://newswebeasy.github.io/test_ja201710/news/easy/voice/2017/10/19/k10011181421000.mp3
+voice_url: https://newswebeasy.github.io/test_ja201710/news/easy/voice/2017/10/19/k10011181421000.mp3
 content_with_ruby: "<p><span style=\"color: blue;\"><ruby>宇宙<rt>うちゅう</rt></ruby></span>の<ruby>研究<rt>けんきゅう</rt></ruby>をしている<ruby>日本<rt>にっぽん</rt></ruby>のＪＡＸＡは２００７<ruby>年<rt>ねん</rt></ruby>に、<ruby>月<rt>つき</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べる<span\
   \ style=\"color: blue;\"><ruby>人工衛星<rt>じんこうえいせい</rt></ruby></span>の「かぐや」を<span style=\"\
   color: blue;\"><ruby>打<rt>う</rt></ruby>ち<ruby>上<rt>あ</rt></ruby>げ</span>ました。「かぐや」が<span\
