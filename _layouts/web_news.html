@@ -35,7 +35,7 @@
             <p>{{ s.text }}</p>
             {% endif %}
             {% if s.movie_url %}
-            <p><video id="player" src="{{ page.movie_url }}" controls loop autoplay></video></p>
+            <p><video id="player" src="{{ s.movie_url }}" controls loop autoplay></video></p>
             <p></p>
             {% elsif s.image_url %}
             <p></p>
