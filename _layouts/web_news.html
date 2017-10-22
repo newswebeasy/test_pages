@@ -23,10 +23,14 @@
             <p><img data-s="300,640" src="{{ page.img }}" data-ratio="0" data-w="640" /></p>
             <p></p>
             {% endif %}
+            {% if page.summar %}
             <p>{{ page.summary }}</p>
             <p></p>
+            {% endif %}
+            {% if page.more %}
             <p>{{ page.more }}</p>
             <p></p>
+            {% endif %}
             {% for s in page.body %}
             {% if s.title %}
             <h2>{{ s.title }}</h2>
